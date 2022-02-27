@@ -1,8 +1,7 @@
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/UtVjgQuWRwyIUuZA2Y/200w.webp?cid=ecf05e47hg6ewfmgp70t70grvqs9r5x9gowgpj6pdj28pw7b&rid=200w.webp&ct=g">
-
 👋 Hi, I’m @HorizonAks
 
 👀 I’m interested in Python, Machine Learning and Quantum Computing
+<img align="right" alt="Coding" width="100" src="https://media2.giphy.com/media/UtVjgQuWRwyIUuZA2Y/200w.webp?cid=ecf05e47hg6ewfmgp70t70grvqs9r5x9gowgpj6pdj28pw7b&rid=200w.webp&ct=g">
 
 🌱 I’m currently learning Artificial Intelligence and Quantum Information
 
