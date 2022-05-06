@@ -7,7 +7,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HorizonAks)](https://git.io/streak-stats)
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpita938&layout=compact">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HorizonAks&layout=compact">
 
 📫 How to reach me ...
 
