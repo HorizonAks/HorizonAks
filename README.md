@@ -1,11 +1,10 @@
 👋 Hi, I’m @HorizonAks
 
-👀 I’m interested in Python, Machine Learning and Quantum Computing
+👀 I’m a Data Scientist with evergrowing interest in Python, Machine Learning and Quantum Computing.
 <img align="right" alt="Coding" width="100" src="https://media2.giphy.com/media/UtVjgQuWRwyIUuZA2Y/200w.webp?cid=ecf05e47hg6ewfmgp70t70grvqs9r5x9gowgpj6pdj28pw7b&rid=200w.webp&ct=g">
 
-🌱 I’m currently learning Artificial Intelligence and Quantum Information
+🌱 I’m currently working on Artificial Intelligent Agents (Towards AGI)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HorizonAks)](https://git.io/streak-stats)
 
 📫 How to reach me ...
 
